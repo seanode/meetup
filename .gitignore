@@ -1,0 +1,10 @@
+Thumbs.db
+.DS_Store
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc
+
+node_modules
+npm-debug.log*
