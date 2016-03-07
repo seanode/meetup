@@ -4,7 +4,7 @@ Call for Speakers
 The Seattle Node.js Meetup typically hosts a meetup once a month with two 20-30
 minute talks. We occasionally throw lightning talks into the mix.
 
-And we'd love to have you share your Node.js knowledge with our group!
+We'd love to have you share your Node.js knowledge with our group!
 
 Speaking at a meetup is a great opportunity to share with the community, meet
 new folks interested in stuff you're interested in, and enhance your public
