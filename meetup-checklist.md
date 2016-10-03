@@ -50,7 +50,7 @@ event.
           actual `meetup.com` link is up, paste in and replace the `XXX`s with
           something like
           `[meetup](https://www.meetup.com/Seattle-Node-js/events/234006156/)`.
-    * [ ] en pull request for review.
+    * [ ] Open pull request for review.
     * [ ] Once approved and meetup is posted, finish content (e.g., meetup link)
       and merge.
     * [ ] Open new PR to merge `development` into `master` causing the website
