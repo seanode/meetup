@@ -17,8 +17,12 @@ event.
     * [ ] Confirm _what_ is actually going to be served (e.g., snacks vs. dinner).
 
 * [ ] Get first speaker.
+    * [ ] Get title / abstract / bio / twitter handle.
+    * [ ] Confirm talk length (20-30 mins) and limiting commercial content.
 
 * [ ] Get second speaker.
+    * [ ] Get title / abstract / bio / twitter handle.
+    * [ ] Confirm talk length (20-30 mins) and limiting commercial content.
 
 * [ ] Get an MC.
 
