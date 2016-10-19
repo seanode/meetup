@@ -40,6 +40,7 @@ event.
 * [ ] **Website Post**: Create base content in markdown with a new
   [pull request](https://github.com/seanode/seanode.github.io/pulls) against
   the `development` branch.
+    * [ ] **Branch name**: Should be something like `meetup-201610` / `meetup-YYYYMM`
     * [ ] **Title**: Should be something like `[WIP] DATE Meetup - TOPIC`
     * [ ] **New File**: Create a new Markdown file with a name something
       like: `_posts/DAY_OF_POST-MONTH_OF_MEETUP-TOPIC.md`. So for example,
